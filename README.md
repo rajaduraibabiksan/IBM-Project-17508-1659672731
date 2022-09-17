@@ -17,7 +17,7 @@
     
     - For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
 
-* Project status: Prototype !
+* Project status: Prototype 
 
 ## Project workflow <img src="https://media3.giphy.com/media/BtVpIOi3doaz3RE5w4/giphy.gif?cid=ecf05e47rkw5pzp7hc9nz6ue1646xz5f4s8ucn1gp6omn9d5&rid=giphy.gif&ct=s" width="30px">
 
@@ -51,7 +51,7 @@ Agriculture is the most important sector in today’s life. Most plants are affe
 
 An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
 
-## Technical Architecture: 
+## Technical Architecture : 
 
 ![image](https://user-images.githubusercontent.com/89697515/189512983-8f4757ef-6f88-4a87-b3c3-9755d09a61e5.png)
 
